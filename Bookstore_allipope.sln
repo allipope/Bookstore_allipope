@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookstore_allipope", "Bookstore_allipope.csproj", "{DF44F5F1-5983-4F6A-B2A2-FBCC3F6E40C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF44F5F1-5983-4F6A-B2A2-FBCC3F6E40C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF44F5F1-5983-4F6A-B2A2-FBCC3F6E40C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF44F5F1-5983-4F6A-B2A2-FBCC3F6E40C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF44F5F1-5983-4F6A-B2A2-FBCC3F6E40C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7EAD86C-0D28-48C2-9C46-947E7DA9FF1F}
+	EndGlobalSection
+EndGlobal
