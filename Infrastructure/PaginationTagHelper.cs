@@ -46,8 +46,7 @@ namespace Bookstore_allipope.Infrastructure
                 if (PageClassesEnabled)
                 {
                     tb.AddCssClass(PageClass);
-                    tb.AddCssClass(i == PageBlah.CurrentPage
-                    ? PageClassSelected : PageClassNormal);
+                    tb.AddCssClass(i == PageBlah.CurrentPage ? PageClassSelected : PageClassNormal);
                 }
                 tb.InnerHtml.Append(i.ToString());
 
